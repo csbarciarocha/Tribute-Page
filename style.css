@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira+Semi+Condensed:wght@100&display=swap');
+
+main{
+  display: center;
+  background-color: #fffff1;
+  font-family: 'Saira Semi Condensed', sans-serif;
+}
+
+#title, p{
+  text-align: center;
+}
+#img{
+  max-width: 60%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+#img-div{
+  margin:0;
+  padding: 20px;
+}
+
+#img-caption{
+  text-align: center;
+}
+
+#tribute-link{
+  text-align: center;
+}
